@@ -4,7 +4,7 @@
 
 * James Grady
 * Bryan Hill
-* Ero A
+* Ero Akushe
 * Lawrence Neely
 * Matt McCarthy
 * Nathaniel Banderas
