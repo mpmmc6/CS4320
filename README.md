@@ -8,6 +8,7 @@
 * Lawrence Neely
 * Matt McCarthy
 * Nathaniel Banderas
+* Kartik Sharma
 
 ## Travelers
 
