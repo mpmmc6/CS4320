@@ -4,7 +4,7 @@
 
 * James Grady
 * Bryan Hill
-* Ero Akushe
+* Oghenenyerhovwo Akushe
 * Lawrence Neely
 * Matt McCarthy
 * Nathaniel Banderas
@@ -12,24 +12,21 @@
 * Quinn Rydland
 
 ## Travelers
-Two travelers 
 
+Two travelers (couple)
 
 ## Destination
 
-San Martin
+San Martin (Island)
 
 ## Budget
 
-| Item        |Price  |
-|:-----------:|:-----:|
-|Travel        |       |
-|Food           |       |
-|Living  |       |
-|Entertainment          |       |
+Budget based on rough estimation of airfare, hotel, chosen activities, food/drinks, and rental car comes out to ~$6,000 USD
+
 ## Time Length
 
-
+5 days / 4 nights
 
 ## Purpose
 
+Couple's retreat
