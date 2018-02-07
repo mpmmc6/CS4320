@@ -12,21 +12,21 @@
 * Quinn Rydland
 
 ## Travelers
-
+Two travelers 
 
 
 ## Destination
 
-
+San Martin
 
 ## Budget
 
 | Item        |Price  |
 |:-----------:|:-----:|
-|This         |       |
-|is           |       |
-|Placeholder  |       |
-
+|Travel        |       |
+|Food           |       |
+|Living  |       |
+|Entertainment          |       |
 ## Time Length
 
 
