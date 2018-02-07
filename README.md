@@ -9,6 +9,7 @@
 * Matt McCarthy
 * Nathaniel Banderas
 * Kartik Sharma
+* Quinn Rydland
 
 ## Travelers
 
