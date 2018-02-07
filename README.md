@@ -1,20 +1,32 @@
-# CS4320
+# CS4320 - Plan A Trip
 
-Members of the team-  Matt McCarthy, James Grady, Bryan Hill, Oghenenyerhovwo Akushe, Lawerence Neely, Kartik Sharma, Quinn Rydland
+## Team Members
 
-Destination of the trip- The Carribbean
+* James Grady
+* Bryan Hill
+* Oghenenyerhovwo Akushe
+* Lawrence Neely
+* Matt McCarthy
+* Nathaniel Banderas
+* Kartik Sharma
+* Quinn Rydland
 
-Who is going on the trip?
+## Travelers
 
+Two travelers (couple)
 
-Budget for the trip-
+## Destination
 
+San Martin (Island)
 
+## Budget
 
-Length of the trip-
+Budget based on rough estimation of airfare, hotel, chosen activities, food/drinks, and rental car comes out to ~$6,000 USD
 
+## Time Length
 
+5 days / 4 nights
 
-Purpose of the trip-
+## Purpose
 
-
+Couple's retreat
