@@ -21,7 +21,13 @@ San Martin (Island)
 
 ## Budget
 
-Budget based on rough estimation of airfare, hotel, chosen activities, food/drinks, and rental car comes out to ~$6,000 USD
+
+
+| Airfare + Hotel Bundle | Hotel           | Holland House Beach Hotel (4 Nights |
+|------------------------|-----------------|-------------------------------------|
+|                        | Airline         | American Airlines (roundtrip)       |
+|                        |                 |                                     
+|                        | Total Trip pice | $3,821.16                           |
 
 ## Time Length
 
